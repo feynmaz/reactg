@@ -6,3 +6,4 @@ cd reactg
 npm install
 npm run dev
 
+npm install bootstrap@latest
